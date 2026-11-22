@@ -1,0 +1,15 @@
+# Database (never commit)
+*.db
+*.db-shm
+*.db-wal
+
+# Build output
+build/
+*.jar
+.gradle/
+
+# IDE
+.idea/
+
+# Local machine config
+local.properties
